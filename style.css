@@ -50,7 +50,7 @@ header {
             .estudante{
             padding:24px 0;}
 
-            .estudante-imagem{
-width: 110px;
-
-            }
+            .estudante-imagem
+            {
+width: 100px;
+}
